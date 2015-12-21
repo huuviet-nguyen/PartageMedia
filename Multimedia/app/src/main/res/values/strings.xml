@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_publier">PublierActivity</string>
+    <string name="title_activity_carte">CarteActivity</string>
+    <string name="title_activity_preparer_publier">PreparerPublierActivity</string>
+</resources>
